@@ -3,6 +3,20 @@
     "configurations": [
       {
         "type": "java",
+        "name": "PrototypePatternDemo",
+        "request": "launch",
+        "mainClass": "org.Factore.Prototype.PrototypePatternDemo",
+        "projectName": "Template-Java-Projects-with-Maven"
+      },
+      {
+        "type": "java",
+        "name": "SingletonPatternDemo",
+        "request": "launch",
+        "mainClass": "org.Factore.Singleton.SingletonPatternDemo",
+        "projectName": "Template-Java-Projects-with-Maven"
+      },
+      {
+        "type": "java",
         "name": "AbstractFactoryPatternDemo",
         "request": "launch",
         "mainClass": "org.Factore.Abstract.AbstractFactoryPatternDemo",
