@@ -1,4 +1,4 @@
-package org.example;
+package org.Factore;
 
 public class Main {
 
