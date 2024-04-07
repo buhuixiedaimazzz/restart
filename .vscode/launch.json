@@ -3,6 +3,20 @@
     "configurations": [
       {
         "type": "java",
+        "name": "TransferObjectPatternDemo",
+        "request": "launch",
+        "mainClass": "org.Factore.Transfer.TransferObjectPatternDemo",
+        "projectName": "Template-Java-Projects-with-Maven"
+      },
+      {
+        "type": "java",
+        "name": "CompositePatternDemo",
+        "request": "launch",
+        "mainClass": "org.Factore.Composite.CompositePatternDemo",
+        "projectName": "Template-Java-Projects-with-Maven"
+      },
+      {
+        "type": "java",
         "name": "BridgePatternDemo",
         "request": "launch",
         "mainClass": "org.Factore.Bridge.BridgePatternDemo",
